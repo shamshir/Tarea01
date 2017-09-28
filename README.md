@@ -9,5 +9,17 @@ El repositorio debe contar con un ejemplo de cada uno de los siguientes archivos
 
 
 Después de aprender a poner imágenes, cursivas y negritas, también he aprendido a crear links y a insertar citas. Aquí hay un ejemplo de enlace a [W3Schools](https://www.w3schools.com/) y debajo, una cita de Einstein.
+
+
 >Mi mujer tiene el mejor físico del mundo.
+
+
+Finalmente, a continuación tenemos una lista de partes de un PC, a modo de cierre de este *README*.
+
+*Placa Base
+*Procesador
+*Memoria RAM
+*Tarjeta Gráfica
+*Disco Duro
+*Etc...
 
