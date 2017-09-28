@@ -16,15 +16,10 @@ Después de aprender a poner imágenes, cursivas y negritas, también he aprendi
 
 Finalmente, a continuación tenemos una lista de partes de un PC, a modo de cierre de este *README*.
 
-*Placa Base
-
-*Procesador
-
-*Memoria RAM
-
-*Tarjeta Gráfica
-
-*Disco Duro
-
-*Etc...
+* Placa Base
+* Procesador
+* Memoria RAM
+* Tarjeta Gráfica
+* Disco Duro
+* Etc...
 
